@@ -23,7 +23,6 @@ function addEvent(){
 }
 
 
-
 function iniciarJogo() {
 	console.log('passei aqui')
 	jogar(0)
